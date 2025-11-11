@@ -52,21 +52,3 @@ Puedes modificarlo, adaptarlo y usarlo libremente, manteniendo los créditos.
 ## ✨ Autor
 
 Desarrollado por Asier
-
-
-
-## ⚖️ 4️⃣ Licencia recomendada
-- ✅ **MIT** → Libre, puedes modificarlo y distribuirlo.  
-- Alternativas:
-  - **GPLv3** → obliga a mantener código abierto si se redistribuye.
-  - **Apache 2.0** → similar a MIT pero con protección legal adicional.
-
-👉 Crea un archivo `LICENSE` en la raíz con el contenido MIT:
-```text
-MIT License
-
-Copyright (c) 2025 Asier
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
