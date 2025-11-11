@@ -12,7 +12,7 @@ realizar el test en modo interactivo, corregir automáticamente y obtener nota c
 - 🧮 Corrección con penalización (1/3 por fallo).
 - 💾 Guardado de resultados en local.
 - 🌙 Tema oscuro optimizado para estudio nocturno.
-- 📚 Modo examen con 5 preguntas por página.
+- 📚 Modo examen con 10 preguntas por página.
 
 ---
 
