@@ -56,9 +56,9 @@ function formatearFecha(fecha: string) {
 .score-circle { display: grid; place-items: center; width: 108px; height: 108px; color: var(--primary); border: 8px solid var(--surface-soft); border-radius: 50%; font-size: 1.8rem; font-weight: 850; }
 .score-circle small { font-size: .75rem; margin-left: 2px; }
 .result-stats, .result-actions { grid-column: 1 / -1; display: flex; gap: 9px; flex-wrap: wrap; }
-.danger-badge { color: var(--danger); background: #fff0f2; }
-.neutral-badge { color: var(--muted); background: #eef1f5; }
-.secondary-button { color: var(--text); background: #eef0f8; box-shadow: none; }
+.danger-badge { color: var(--danger); background: var(--danger-soft); }
+.neutral-badge { color: var(--muted); background: var(--neutral-soft); }
+.secondary-button { color: var(--text); background: var(--secondary); box-shadow: none; }
 .history-section { margin-top: 42px; }
 .section-header { display: flex; justify-content: space-between; align-items: end; gap: 16px; margin-bottom: 14px; }
 .section-header h2 { margin: 0; font-size: 1.5rem; }
